@@ -1,3 +1,17 @@
-/Source/*.aliases
-/Source/*.lvlps
 /Builds
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+
+# Datasheets
+*.pdf

@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
+<Library LVVersion="21008000">
 	<Property Name="NI.Lib.Description" Type="Str">Library for communicating with a web-browser via the WebSockets protocol. This allows for low-latency asynchronous TCP/IP-like communications.
 
 ---------------------------------------
@@ -7,8 +7,8 @@
 http://www.mediamongrels.com
 ---------------------------------------</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+\!!!*Q(C=\:5`&lt;F."%)=H##2;(Q!*,+&gt;*/E_6XAW.84GJUMY"!NC#.%&amp;#9)E?./GB-"?)YS9*3#:BLO!LO%22GO8&lt;T2*37%J$"%6WXTS`^^PZ]\X&gt;V6KEN)=C^S8&gt;V(;[X6:L@8OSP$'?(&gt;;X,WDHS]9`:)&gt;?C6`CE.)B$DO^\:2@,KAXS6&lt;(]MPB)2[^8HK2]HC7S`8\2PT(:\XHKWG18O&lt;YS\$*(^NMN^@W"U^8UX(;0&lt;]?8RZ4WNL;8$P:(_SEE`2Z=LV_T&gt;.O&lt;X:H8Y_0DMZ_H#\\PP7@\?ZM&gt;PJN^PXMU\,R'ZL=N&lt;PW&lt;^P?D:PUVP@MCO3$#!P--=.5=KE5[)%?[)%?[)(O[)\O[)\O[)ZO[):O[):O[);O[)KO[)KO[)J?/LKA#\KAAR15$QI&amp;39-%A4-I%NQ#HI!HY!FY?*7!*_!*?!+?A!=8#8A#HI!HY!FY#*/!*_!*?!+?A)&gt;5B32+2Y=HY#'^/$Q/D]0D]$A]F"3(RQ&amp;QCDG*H32AC$0I0$A]$I`$Q[-Y0![0Q_0Q/$Q-C]0D]$A]$I`$1UC:&amp;3]UO;0$1RIR?!Q?A]@A-8B),1;0Q70Q'$Q'$_8%Y$&amp;Y$!CDI*%="$'#$!@DR?!R?0A2A]@A-8A-(I/(I&lt;*#6G9GU_3/$I`#I`!I0!K0QE-+58A5(I6(Y6&amp;Y3#M+D]+D]#A]#A_F2/&amp;2?"1?"51J3HF2ECG"CJ-C+$R=:&lt;&gt;I735P*&amp;K[3.W]5D?FV-UG&gt;2.*X2R3&amp;VXK9EJ&gt;*+G4,X63J5[7V%G1_H&amp;3I;8#3#UC.4A\SI,\(*NC9WS%$&lt;%_VM';7#/(`G8(R7)B]`F=JN/JD-&gt;D'9V'-BQ/J&gt;`P3[@4E7;T+9V'Y_I9?%S`/B!OT[880&amp;`:_Y.(?_07E\UP'`\G6?P"W^W$D8@HMJ,NFPZ,`Y/T5?\*^&lt;T-U3^:&amp;A!?!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+\!!!*Q(C=\:5`&lt;F."%)=H##2;(Q!*,+&gt;*/E_6XAW.84GJUMY"!NC#.%&amp;#9)E?./GB-"?)YS9*3#:BLO!LO%22GO8&lt;T2*37%J$"%6WXTS`^^PZ]\X&gt;V6KEN)=C^S8&gt;V(;[X6:L@8OSP$'?(&gt;;X,WDHS]9`:)&gt;?C6`CE.)B$DO^\:2@,KAXS6&lt;(]MPB)2[^8HK2]HC7S`8\2PT(:\XHKWG18O&lt;YS\$*(^NMN^@W"U^8UX(;0&lt;]?8RZ4WNL;8$P:(_SEE`2Z=LV_T&gt;.O&lt;X:H8Y_0DMZ_H#\\PP7@\?ZM&gt;PJN^PXMU\,R'ZL=N&lt;PW&lt;^P?D:PUVP@MCO3$#!P--=.5=KE5[)%?[)%?[)(O[)\O[)\O[)ZO[):O[):O[);O[)KO[)KO[)J?/LKA#\KAAR15$QI&amp;39-%A4-I%NQ#HI!HY!FY?*7!*_!*?!+?A!=8#8A#HI!HY!FY#*/!*_!*?!+?A)&gt;5B32+2Y=HY#'^/$Q/D]0D]$A]F"3(RQ&amp;QCDG*H32AC$0I0$A]$I`$Q[-Y0![0Q_0Q/$Q-C]0D]$A]$I`$1UC:&amp;3]UO;0$1RIR?!Q?A]@A-8B),1;0Q70Q'$Q'$_8%Y$&amp;Y$!CDI*%="$'#$!@DR?!R?0A2A]@A-8A-(I/(I&lt;*#6G9GU_3/$I`#I`!I0!K0QE-+58A5(I6(Y6&amp;Y3#M+D]+D]#A]#A_F2/&amp;2?"1?"51J3HF2ECG"CJ-C+$R=:&lt;&gt;I735P*&amp;K[3.W]5D?FV-UG&gt;2.*X2R3&amp;VXK9EJ&gt;*+G4,X63J5[7V%G1_H&amp;3I;8#3#UC.4A\SI,\(*NC9WS%$&lt;%_VM';7#/(`G8(R7)B]`F=JN/JD-&gt;D'9V'-BQ/J&gt;`P3[@4E7;T+9V'Y_I9?%S`/B!OT[880&amp;`:_Y.(?_07E\UP'`\G6?P"W^W$D8@HMJ,NFPZ,`Y/T5?\*^&lt;T-U3^:&amp;A!?!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -23,7 +23,12 @@ http://www.mediamongrels.com
 		<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
 		<Item Name="GetHeader.vi" Type="VI" URL="../GetHeader.vi"/>
 	</Item>
+	<Item Name="Data Model" Type="Folder">
+		<Item Name="WebSocket Data Model.lvclass" Type="LVClass" URL="../Data Model/WebSocket Data Model.lvclass"/>
+	</Item>
 	<Item Name="WebSocket.lvclass" Type="LVClass" URL="../WebSocket/WebSocket.lvclass"/>
 	<Item Name="WebSocket Server.lvclass" Type="LVClass" URL="../WebSocket Server/WebSocket Server.lvclass"/>
+	<Item Name="TCP Server.lvclass" Type="LVClass" URL="../WebSocket Server/TCP Server/TCP Server.lvclass"/>
 	<Item Name="WebSocket Client.lvclass" Type="LVClass" URL="../WebSocket Client/WebSocket Client.lvclass"/>
+	<Item Name="WebSocket Client CR.lvclass" Type="LVClass" URL="../WebSocket Client CR/WebSocket Client CR.lvclass"/>
 </Library>
